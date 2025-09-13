@@ -13,16 +13,19 @@ Geliştiricinin yeteneklerini, projelerini ve iletişim bilgilerini sergilemek i
 ## 📷 Önizleme
 
 <p align="center">
-  <img src="assets/preview_1.png" alt="Freelancer Portfolio Preview" width="300">
+  <img src="assets/preview_1.png" alt="Freelancer Portfolio Preview" width="200">
 </p>
+---
 <p align="center">
-  <img src="assets/preview_2.png" alt="Freelancer Portfolio Preview" width="300">
+  <img src="assets/preview_2.png" alt="Freelancer Portfolio Preview" width="200">
 </p>
+---
 <p align="center">
-  <img src="assets/preview_3.png" alt="Freelancer Portfolio Preview" width="300">
+  <img src="assets/preview_3.png" alt="Freelancer Portfolio Preview" width="200">
 </p>
+---
 <p align="center">
-  <img src="assets/preview_4.png" alt="Freelancer Portfolio Preview" width="300">
+  <img src="assets/preview_4.png" alt="Freelancer Portfolio Preview" width="200">
 </p>
 
 
